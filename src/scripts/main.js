@@ -16,4 +16,4 @@ function sortList() {
   arrayList.forEach((value) => list.appendChild(value));
 }
 
-sortList(list);
+sortList();
